@@ -24,7 +24,7 @@ Step2
 
         ssh ubuntu@ip
 
-![step2](/images/1.png)
+![step2](./images/1.png)
 
 ---
 
@@ -40,7 +40,7 @@ Step 3
 
 ---
 
-![step3](/images/2.png)
+![step3](./images/2.png)
 
 ---
 
@@ -54,19 +54,19 @@ Step 4
          sudo add-apt-repository --yes --update ppa:ansible/ansible
 
 
-![step4](/images/3.png)
+![step4](./images/3.png)
 
 ---
 
 ---
 
-![step5](/images/4.png)
+![step5](./images/4.png)
 
 ---
 
 ---
 
-![step6](/images/5.png)
+![step6](./images/5.png)
 
 ---
 
@@ -81,7 +81,7 @@ Step 5:
  sudo adduser devops
 ```
 
-![step7](/images/6.png)
+![step7](./images/6.png)
 
 ---
 
@@ -94,7 +94,7 @@ Step 6:
 
 
 
-![step8](/images/7.png)
+![step8](./images/7.png)
 
 ---
 
@@ -105,7 +105,7 @@ Configure the sshd file using the following command
          sudo vi /etc/ssh/sshd-config
 ---
 
-![step9](/images/8.png)
+![step9](./images/8.png)
 
 ---
 Step 8:
@@ -118,7 +118,7 @@ Step 8:
 
 ---
 
-![step10](/images/9.png)
+![step10](./images/9.png)
 
 ---
 
