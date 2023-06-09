@@ -24,7 +24,7 @@ Step2
 
         ssh ubuntu@ip
 
-![step2](./images/1.png)
+![step2](./images/1.PNG)
 
 ---
 
@@ -40,7 +40,7 @@ Step 3
 
 ---
 
-![step3](./images/2.png)
+![step3](./images/2.PNG)
 
 ---
 
@@ -54,19 +54,19 @@ Step 4
          sudo add-apt-repository --yes --update ppa:ansible/ansible
 
 
-![step4](./images/3.png)
+![step4](./images/3.PNG)
 
 ---
 
 ---
 
-![step5](./images/4.png)
+![step5](./images/4.PNG)
 
 ---
 
 ---
 
-![step6](./images/5.png)
+![step6](./images/5.PNG)
 
 ---
 
@@ -81,7 +81,7 @@ Step 5:
  sudo adduser devops
 ```
 
-![step7](./images/6.png)
+![step7](./images/6.PNG)
 
 ---
 
@@ -94,7 +94,7 @@ Step 6:
 
 
 
-![step8](./images/7.png)
+![step8](./images/7.PNG)
 
 ---
 
@@ -105,7 +105,7 @@ Configure the sshd file using the following command
          sudo vi /etc/ssh/sshd-config
 ---
 
-![step9](./images/8.png)
+![step9](./images/8.PNG)
 
 ---
 Step 8:
@@ -118,7 +118,7 @@ Step 8:
 
 ---
 
-![step10](./images/9.png)
+![step10](./images/9.PNG)
 
 ---
 
@@ -127,7 +127,7 @@ Step 9:
 Then exit from the user for checking purpose
 ---
 
-![step11](/images/10.png)
+![step11](/images/10.PNG)
 
 ---
 Step 10:
@@ -136,7 +136,7 @@ Step 10:
 
 ---
 
-![step13](/images/12.png)
+![step13](/images/12.PNG)
 
 ---
 
@@ -146,7 +146,7 @@ Step 11:
 
 Generate Keygen for the users to connect 
 
-![step14](/images/13.png)
+![step14](/images/13.PNG)
 
 ---
 
@@ -164,7 +164,7 @@ Step 13
 
 - check the directory of ssh 
 
-![step15](/images/14.png)
+![step15](/images/14.PNG)
 
 ---
 
@@ -175,7 +175,7 @@ Step 14:
 
 ---
 
-![step16](/images/15.png)
+![step16](/images/15.PNG)
 
 ---
 
@@ -185,7 +185,7 @@ Step 15:
 Copy the ssh- key id to the diffent node from Redhat
 
 
-![step17](/images/16.png)
+![step17](/images/16.PNG)
 
 ---
 
@@ -194,7 +194,7 @@ Step 16:
 
 - check the directory
 
-![step18](/images/17.png)
+![step18](/images/17.PNG)
 
 ---
 
@@ -206,7 +206,7 @@ Step 17:
 
     ```ansible -m ping -i host all```
 
-![step19](/images/18.png)
+![step19](/images/18.PNG)
 
 ---
 
@@ -217,7 +217,7 @@ Step 18:
  ``` sudo vi/home/devops/host ```
 ---
 
-![step20](/images/19.png)
+![step20](/images/19.PNG)
 
 ---
 
@@ -227,7 +227,7 @@ Installation Successfull
 
 ---
 
-![step21](/images/20.png)
+![step21](/images/20.PNG)
 
 ---
 
